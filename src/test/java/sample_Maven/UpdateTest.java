@@ -1,5 +1,10 @@
 package sample_Maven;
 
-public class UpdateTest {
+import org.testng.annotations.Test;
 
+public class UpdateTest {
+@Test
+	public void test() {
+		System.out.println("Passed");
+	}
 }
