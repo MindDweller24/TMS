@@ -7,6 +7,7 @@ public class Admin_Test {
 	@Test
 	public void test() {
 		System.out.println("Test passed");
+		System.out.println("Test passed");
 	}
 
 }
