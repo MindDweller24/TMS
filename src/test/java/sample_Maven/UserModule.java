@@ -6,5 +6,7 @@ public class UserModule {
 @Test
 	public void test() {
 		System.out.println("Passed");
+		System.out.println("Passed");
+		System.out.println("Passed");
 	}
 }
